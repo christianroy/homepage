@@ -49,6 +49,19 @@ body {
     font-size: 24px;
 }
 
+.description {
+    margin: 20px 0;
+    font-size: 18px;
+    line-height: 1;
+}
+.description p {
+    margin-top: 28px;
+}
+.description h2 {
+  margin-top: 40px;
+}
+
+
 .illustration p {
     font-size: 24px;
     font-weight: lighter;
